@@ -8,7 +8,7 @@
 </script>
 
 <header>
-<h1>Chat</h1>
+<h1>D-Messenger</h1>
   {#if $username}
     <div class="user-bio">
       
@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>Distributed Chat App</h3>
+    <h3>Distributed Chat App</h3>
   {/if}
 </header>
