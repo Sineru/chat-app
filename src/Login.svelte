@@ -1,7 +1,6 @@
 <script>
   import { user } from './user';
   
-  
   let username;
   let password;
 
@@ -19,6 +18,7 @@
     });
   }
 </script>
+
 
 <div class="username-row">
   <label class="labelUsername" for="username">Username</label>
