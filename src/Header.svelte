@@ -20,6 +20,6 @@
 
     {:else}
 
-    <h3>Distributed Chat App</h3>
+    <h3>Let's Chat</h3>
   {/if}
 </header>
